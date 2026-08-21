@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ramazan 👋
 
-<!--
-**RamazanKepelek/RamazanKepelek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cyber Security Student | Frontend Development
 
-Here are some ideas to get you started:
+I'm a Cyber Security student focused on building practical projects and improving my development skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+- HTML & CSS
+- JavaScript
+- Frontend Development
+- Git & GitHub
+- Cyber Security fundamentals
+
+### Projects
+
+I use this profile to document my learning journey, experiments and projects.
+
+- 🌐 Frontend projects
+- 🔐 Cyber Security studies
+- 🧠 Learning projects and exercises
+
+### Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ramazan-kepelek
+- Website: https://ramazankepelek.com
