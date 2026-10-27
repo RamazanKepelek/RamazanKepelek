@@ -1,19 +1,21 @@
 Merhaba, ben Ramazan! 👋
 
-Yazılım geliştirme alanında kendimi geliştiren, öğrendiklerimi projelerle pratiğe dökmeye çalışan bir geliştirici adayıyım.
+Frontend Development alanında kendimi geliştiren bir geliştirici adayıyım.
+
+HTML, CSS ve JavaScript üzerine çalışıyor; öğrendiklerimi projelere dönüştürerek pratik deneyim kazanıyorum.
 
 🎯 Hakkımda
 
-* 🌐 Web geliştirme ve Frontend Development alanında ilerliyorum.
-* 💻 HTML, CSS ve JavaScript üzerine çalışıyorum.
-* 📚 Yeni konuları öğrenirken uygulamaya ve proje geliştirmeye önem veriyorum.
-* 🚀 Amacım, sağlam temeller oluşturarak kendimi sürekli geliştirmek.
+* 🌐 Frontend Development alanında ilerliyorum.
+* 💻 HTML, CSS ve JavaScript ile projeler geliştiriyorum.
+* 📚 Öğrendiklerimi uygulamaya dökmeye ve sağlam temeller oluşturmaya önem veriyorum.
+* 🚀 Düzenli üreterek, deneyim kazanarak ve kendimi geliştirerek ilerlemeyi hedefliyorum.
 
 📖 Şu Anda
 
-* JavaScript temellerini geliştiriyorum.
-* Web geliştirme projeleri üzerinde çalışıyorum.
-* Git ve GitHub kullanımımı ilerletiyorum.
+* JavaScript temellerimi geliştiriyorum.
+* Web Development projeleri üzerinde çalışıyorum.
+* Git & GitHub kullanımımı ilerletiyorum.
 
 🛠️ Teknolojiler
 
@@ -26,8 +28,10 @@ Yazılım geliştirme alanında kendimi geliştiren, öğrendiklerimi projelerle
 
 GitHub profilimde web geliştirme çalışmalarımı, uygulamalarımı ve öğrenme sürecimde geliştirdiğim projeleri bulabilirsin.
 
+Projelerim üzerinde çalışarak öğrendiklerimi pratiğe dökmeye ve geliştirme becerilerimi ilerletmeye devam ediyorum.
+
 🔗 Bağlantılar
 
-* GitHub: https://github.com/RamazanKepelek
-* LinkedIn: https://www.linkedin.com/in/ramazan-kepelek
-* Kişisel Web Sitem: https://ramazankepelek.com
+* GitHub: RamazanKepelek
+* LinkedIn: LinkedIn Profilim
+* Kişisel Web Sitem: ramazankepelek.com
