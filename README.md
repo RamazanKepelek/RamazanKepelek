@@ -1,26 +1,33 @@
-# Hi, I'm Ramazan 👋
+Merhaba, ben Ramazan! 👋
 
-### Cyber Security Student | Frontend Development
+Yazılım geliştirme alanında kendimi geliştiren, öğrendiklerimi projelerle pratiğe dökmeye çalışan bir geliştirici adayıyım.
 
-I'm a Cyber Security student focused on building practical projects and improving my development skills step by step.
+🎯 Hakkımda
 
-### Currently Learning
+* 🌐 Web geliştirme ve Frontend Development alanında ilerliyorum.
+* 💻 HTML, CSS ve JavaScript üzerine çalışıyorum.
+* 📚 Yeni konuları öğrenirken uygulamaya ve proje geliştirmeye önem veriyorum.
+* 🚀 Amacım, sağlam temeller oluşturarak kendimi sürekli geliştirmek.
 
-- HTML & CSS
-- JavaScript
-- Frontend Development
-- Git & GitHub
-- Cyber Security fundamentals
+📖 Şu Anda
 
-### Projects
+* JavaScript temellerini geliştiriyorum.
+* Web geliştirme projeleri üzerinde çalışıyorum.
+* Git ve GitHub kullanımımı ilerletiyorum.
 
-I use this profile to document my learning journey, experiments and projects.
+🛠️ Teknolojiler
 
-- 🌐 Frontend projects
-- 🔐 Cyber Security studies
-- 🧠 Learning projects and exercises
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
 
-### Connect With Me
+📂 Projelerim
 
-- LinkedIn: https://www.linkedin.com/in/ramazan-kepelek
-- Website: https://ramazankepelek.com
+GitHub profilimde web geliştirme çalışmalarımı, uygulamalarımı ve öğrenme sürecimde geliştirdiğim projeleri bulabilirsin.
+
+🔗 Bağlantılar
+
+* GitHub: https://github.com/RamazanKepelek
+* LinkedIn: https://www.linkedin.com/in/ramazan-kepelek
+* Kişisel Web Sitem: https://ramazankepelek.com
